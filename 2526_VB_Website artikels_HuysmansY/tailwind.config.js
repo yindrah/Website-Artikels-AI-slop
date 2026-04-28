@@ -1,1 +1,0 @@
-module.exports = { content: ['./pages/**/*.{js,jsx}', './components/**/*.{js,jsx}', './data/**/*.{js,jsx}'], theme: { extend: { fontFamily: { serif: ['Georgia','serif'], sans: ['Inter','Arial','sans-serif'] } } }, plugins: [] }

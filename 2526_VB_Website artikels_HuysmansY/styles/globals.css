@@ -1,6 +1,0 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-html { scroll-behavior: smooth; }
-body { @apply bg-stone-50 text-stone-900; }
-::selection { @apply bg-amber-200; }
